@@ -18,4 +18,4 @@ RUN \
   # Clean up APT when done.
 
 # Define commonly used JAVA_HOME variable
-ENV JAVA_HOME /usr/lib/jvm/java-8-openjdk-amd64
+ENV JAVA_HOME /usr/lib/jvm/java-8-openjre-amd64
